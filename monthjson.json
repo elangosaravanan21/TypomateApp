@@ -1,0 +1,238 @@
+{
+  "success": "1",
+  "message": "data available",
+    "total":9,
+  "result": [
+   {
+    "title": "REVENUE",
+     "result":[
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 34 ",
+        "rate2": " 46 ",
+        "rate3": " 12 ",
+        "icon": "false"
+      },
+      {
+        "name": "Apr21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (15)  ",
+        "rate2": "(15)",
+        "rate3": "0 ",
+        "icon": "false"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 102 ",
+        "rate2": "  96  ",
+        "rate3": "(6)",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": "- ",
+        "rate2": " (2) ",
+        "rate3": "2",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (117)",
+        "rate2": " (109) ",
+        "rate3": "8",
+        "icon": "true"
+      },
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": "(128) ",
+        "rate2": " (133) ",
+        "rate3": "(5)",
+        "icon": "true"
+      },
+      {
+        "name": "Jan21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 54 ",
+        "rate2": "  39  ",
+        "rate3": " (15)",
+        "icon": "true"
+      },
+      {
+        "name": "Nov21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 1,009  ",
+        "rate2": "  1,036  ",
+        "rate3": " 27 ",
+        "icon": "true"
+      },
+      {
+        "name": "Oct21",
+        "hrs": "Months",
+        "rate1": "8 ",
+        "rate2": " 8 ",
+        "rate3": "-",
+        "icon": "true"
+      }
+     ]
+   },
+   {
+    "title": "EBITDA",
+     "result":[
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 34 ",
+        "rate2": " 46 ",
+        "rate3": " 12 ",
+        "icon": "false"
+      },
+      {
+        "name": "Apr21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (15)  ",
+        "rate2": "(15)",
+        "rate3": "0 ",
+        "icon": "false"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 102 ",
+        "rate2": "  96  ",
+        "rate3": "(6)",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": "- ",
+        "rate2": " (2) ",
+        "rate3": "2",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (117)",
+        "rate2": " (109) ",
+        "rate3": "8",
+        "icon": "true"
+      },
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": "(128) ",
+        "rate2": " (133) ",
+        "rate3": "(5)",
+        "icon": "true"
+      },
+      {
+        "name": "Jan21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 54 ",
+        "rate2": "  39  ",
+        "rate3": " (15)",
+        "icon": "true"
+      },
+      {
+        "name": "Nov21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 1,009  ",
+        "rate2": "  1,036  ",
+        "rate3": " 27 ",
+        "icon": "true"
+      },
+      {
+        "name": "Oct21",
+        "hrs": "Months",
+        "rate1": "8 ",
+        "rate2": " 8 ",
+        "rate3": "-",
+        "icon": "true"
+      }
+     ]
+   },
+   {
+    "title": "PBT",
+     "result":[
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 34 ",
+        "rate2": " 46 ",
+        "rate3": " 12 ",
+        "icon": "false"
+      },
+      {
+        "name": "Apr21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (15)  ",
+        "rate2": "(15)",
+        "rate3": "0 ",
+        "icon": "false"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 102 ",
+        "rate2": "  96  ",
+        "rate3": "(6)",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": "- ",
+        "rate2": " (2) ",
+        "rate3": "2",
+        "icon": "true"
+      },
+      {
+        "name": "Dec21",
+        "hrs": "Rs. Lacs",
+        "rate1": " (117)",
+        "rate2": " (109) ",
+        "rate3": "8",
+        "icon": "true"
+      },
+      {
+        "name": "Mar21",
+        "hrs": "Rs. Lacs",
+        "rate1": "(128) ",
+        "rate2": " (133) ",
+        "rate3": "(5)",
+        "icon": "true"
+      },
+      {
+        "name": "Jan21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 54 ",
+        "rate2": "  39  ",
+        "rate3": " (15)",
+        "icon": "true"
+      },
+      {
+        "name": "Nov21",
+        "hrs": "Rs. Lacs",
+        "rate1": " 1,009  ",
+        "rate2": "  1,036  ",
+        "rate3": " 27 ",
+        "icon": "true"
+      },
+      {
+        "name": "Oct21",
+        "hrs": "Months",
+        "rate1": "8 ",
+        "rate2": " 8 ",
+        "rate3": "-",
+        "icon": "true"
+      }
+     ]
+   }
+  ]
+}

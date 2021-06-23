@@ -1,0 +1,43 @@
+{
+  "success": "1",
+  "message": "data available",
+  "result": [
+    {
+      "name": "Volume",
+      "hrs": "Hrs",
+      "rate1": "76,363  ",
+      "rate2": "61,322  ",
+      "rate3": "(15,01) ",
+      "icon": "false"
+    },
+    {
+      "name": "Realization",
+      "hrs": "Rs / Hr",
+      "rate1": "924 ",
+      "rate2": "769 ",
+      "rate3": "(155) ",
+      "icon": "false"
+    },
+    {
+      "name": "Gross Margin",
+      "hrs": "Rs / Hr",
+      "rate1": "146 ",
+      "rate2": " 137 ",
+      "rate3": "(9)",
+      "icon": "true"
+    },
+    {
+      "name": "Net Margin",
+      "hrs": "Rs / Hr",
+      "rate1": "(105) ",
+      "rate2": " (146) ",
+      "rate3": "46",
+      "icon": "true"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": ""
+    }
+  }
+}
